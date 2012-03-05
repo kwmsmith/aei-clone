@@ -35,3 +35,5 @@ There are also a few helper modules located in the python pyrimaa package:
   Implements an Arimaa board, step and move generator and some
   related utility functions.
 
+
+.. vim:ft=rst

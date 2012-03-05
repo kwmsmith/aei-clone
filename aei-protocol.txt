@@ -413,3 +413,5 @@ Version 1
     old engines.
     Change all colors in the protocol to g (gold) and s (silver).
 
+
+.. vim:ft=rst
